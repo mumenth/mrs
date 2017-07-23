@@ -13,16 +13,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".welcome">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".signup" />
+        <activity android:name=".choices_2" />
         <activity android:name=".ready_to_go" />
-        <activity android:name=".welcome" />
+        <activity android:name=".signup" />
         <activity android:name=".talk_to_doctor" />
         <activity android:name=".login" />
         <activity android:name=".main" />

@@ -49,10 +49,10 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Us
 		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:15:9-40
 	android:name
 		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:9:9-41
-activity#com.example.mumen.mrs.MainActivity
+activity#com.example.mumen.mrs.welcome
 ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:16:19-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
@@ -63,18 +63,18 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
 		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:20:27-74
-activity#com.example.mumen.mrs.signup
-ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:23:9-44
+activity#com.example.mumen.mrs.choices_2
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:23:9-47
 	android:name
-		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:23:19-41
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:23:19-44
 activity#com.example.mumen.mrs.ready_to_go
 ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:24:9-49
 	android:name
 		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:24:19-46
-activity#com.example.mumen.mrs.welcome
-ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:25:9-45
+activity#com.example.mumen.mrs.signup
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:25:9-44
 	android:name
-		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:25:19-42
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:25:19-41
 activity#com.example.mumen.mrs.talk_to_doctor
 ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:26:9-52
 	android:name
