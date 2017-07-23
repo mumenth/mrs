@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
