@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/mumen/MRS-app/MRS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "outputFile": "C:\\home\\mumen\\MRS-app\\MRS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\home\\mumen\\.android\\build-cache\\e386cbdee672a67d4eb622f84e3d6057ae68a4d5\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Hatem\\Desktop\\MRS\\mrs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Hatem\\.android\\build-cache\\401c0728b26c837087de5a3e48dcd965c77cfda2\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

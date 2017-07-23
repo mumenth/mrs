@@ -1,83 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     tools:context="com.example.mumen.mrs.enter_data">
 
-    <TextView
-        android:id="@+id/textView7"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/doctor_name"
-        android:textSize="20dp"
-        tools:layout_editor_absoluteX="29dp"
-        tools:layout_editor_absoluteY="25dp" />
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
 
-    <EditText
-        android:id="@+id/editText4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="@string/doctor_name_label"
-        app:layout_constraintLeft_toLeftOf="@+id/textView7"
-        android:layout_marginTop="8dp"
-        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/doctor_name"
+            android:textSize="20sp"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="25dp" />
 
-    <TextView
-        android:id="@+id/textView8"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/date_of_taking_place"
-        android:textSize="20dp"
-        android:textAppearance="@style/Base.TextAppearance.AppCompat.Display1"
-        app:layout_constraintLeft_toLeftOf="@+id/editText4"
-        android:layout_marginTop="16dp"
-        app:layout_constraintTop_toBottomOf="@+id/editText4" />
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:ems="10"
+            android:hint="@string/doctor_name_label"
+            android:inputType="textPersonName"
+            app:layout_constraintLeft_toLeftOf="@+id/textView7"
+            app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16sp"
+            android:text="@string/date_of_taking_place"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Display1"
+            android:textSize="20dp"
+            app:layout_constraintLeft_toLeftOf="@+id/editText4"
+            app:layout_constraintTop_toBottomOf="@+id/editText4" />
 
 
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="44dp"
+            android:layout_marginTop="16sp"
+            android:text="@string/address_label"
+            android:textSize="20dp"
+            app:layout_constraintLeft_toLeftOf="@+id/editText5"
+            app:layout_constraintTop_toBottomOf="@+id/editText5" />
 
-    <TextView
-        android:id="@+id/textView9"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/address"
-        android:textSize="20dp"
+        <EditText
+            android:id="@+id/editText6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:ems="10"
+            android:hint="@string/address"
+            android:inputType="textPersonName"
+            app:layout_constraintLeft_toLeftOf="@+id/textView9"
+            app:layout_constraintTop_toBottomOf="@+id/textView9" />
 
-        app:layout_constraintLeft_toLeftOf="@+id/editText5"
-        android:layout_marginTop="16dp"
-        app:layout_constraintTop_toBottomOf="@+id/editText5" />
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16sp"
+            android:text="@string/type_label"
+            android:textSize="20dp"
+            app:layout_constraintLeft_toLeftOf="@+id/editText6"
+            app:layout_constraintTop_toBottomOf="@+id/editText6" />
 
-    <EditText
-        android:id="@+id/editText6"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="Name"
-        app:layout_constraintLeft_toLeftOf="@+id/textView9"
-        android:layout_marginTop="8dp"
-        app:layout_constraintTop_toBottomOf="@+id/textView9"
-        />
+        <EditText
+            android:id="@+id/editText5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:ems="10"
+            android:inputType="date"
+            app:layout_constraintLeft_toLeftOf="@+id/textView8"
+            app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Type:"
-        android:textSize="20dp"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="313dp" />
+        <RadioButton
+            android:id="@+id/report"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:text="@string/report_label"
+            app:layout_constraintLeft_toLeftOf="@+id/textView10"
+            app:layout_constraintTop_toBottomOf="@+id/textView10" />
 
-    <EditText
-        android:id="@+id/editText8"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="date"
-        tools:layout_editor_absoluteX="29dp"
-        tools:layout_editor_absoluteY="250dp" />
+        <RadioButton
+            android:id="@+id/xray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:text="@string/xray_label"
+            app:layout_constraintTop_toBottomOf="@+id/report"
+            tools:layout_editor_absoluteX="29dp" />
 
-</android.support.constraint.ConstraintLayout>
+        <RadioButton
+            android:id="@+id/appointment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:text="@string/Appointment_label"
+            app:layout_constraintTop_toBottomOf="@+id/xray"
+            tools:layout_editor_absoluteX="29dp" />
+
+        <RadioButton
+            android:id="@+id/other"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:text="@string/Other_label"
+            app:layout_constraintTop_toBottomOf="@+id/appointment"
+            tools:layout_editor_absoluteX="29dp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="81dp"
+            android:layout_height="58dp"
+            android:layout_marginLeft="-13dp"
+            android:layout_marginTop="33dp"
+            android:contentDescription="AddImage"
+            app:layout_constraintLeft_toLeftOf="@+id/other"
+            app:layout_constraintTop_toBottomOf="@+id/other"
+            app:srcCompat="@android:drawable/ic_input_add" />
+
+
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>

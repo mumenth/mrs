@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "C:\\Users\\Hatem\\Desktop\\MRS\\mrs\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Hatem\\.android\\build-cache\\eb33debaa544e42c1c5311f7542eb81c100bbe76\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\home\\mumen\\MRS-app\\MRS\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\home\\mumen\\.android\\build-cache\\be267ce64898e7ea658660ab8c5f35d0a22c632b\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

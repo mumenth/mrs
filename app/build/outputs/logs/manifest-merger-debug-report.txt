@@ -1,137 +1,137 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:3:5-36
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:8:5-31:19
-MERGED from [com.android.support:design:25.3.1] /home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mumen/.android/build-cache/a5fff16454a057d18cee83c91d3de0bcb80f6bb4/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mumen/.android/build-cache/f93bf96c7826f0ba943e60126b4a6059482d1d67/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] /home/mumen/.android/build-cache/bac0444a125a3fa494e62e5589d7f0844a14dea1/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/mumen/.android/build-cache/bd96924583407712466dfc10e41030ce9401ee56/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/mumen/.android/build-cache/d208897347be53c03f07f1b2eccaaabb6508a83d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/mumen/.android/build-cache/b67ac1000449cbcbcb9ac397ff6564100db8d89f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/mumen/.android/build-cache/8c002b7d8bee9f7b4a7f5f0ab92b5be9cb32b138/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/mumen/.android/build-cache/75bdcb8c61dd97187d26554f5234a55195c5bade/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/mumen/.android/build-cache/5803dbbf655d6575c80b2c839a1737182d9f303b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/mumen/.android/build-cache/d081f789c23fd5283d1bcce917e78ae1d2939a42/output/AndroidManifest.xml:9:5-20
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:8:5-31:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Hatem\.android\build-cache\eb33debaa544e42c1c5311f7542eb81c100bbe76\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hatem\.android\build-cache\401c0728b26c837087de5a3e48dcd965c77cfda2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hatem\.android\build-cache\027a0caaf6fec8e213fa6853d4bab2b7a57dcd57\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hatem\.android\build-cache\641393c7cce6d19270219b35876e359ab13c1300\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Hatem\.android\build-cache\7bc33fafce3802db8b1d542daf0530b54601f459\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hatem\.android\build-cache\a412f5e12f4f9684b5f546bfa95ff9fad22ef512\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hatem\.android\build-cache\b5fc3285710dbb10a348a1d02ce6ff01feea5599\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hatem\.android\build-cache\58e665a2b8677d54c86dba7b01e34d6f3f7e464a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hatem\.android\build-cache\02de49695d330645d86eaffdf38861efc5f27eb4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hatem\.android\build-cache\0020fb7235e86fb8c0f35f838a4b6aec96e47faf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hatem\.android\build-cache\0c592c759ee0111a573935dc3e8c5e3f9d1ac620\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Hatem\.android\build-cache\6ab1c7b7e86f4acbf0aab5061ba89b8973a212d9\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:12:9-41
 	android:supportsRtl
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:14:9-35
 	android:roundIcon
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:13:9-54
 	android:allowBackup
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:10:9-35
 	android:icon
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:11:9-43
 	android:theme
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:9:9-41
 activity#com.example.mumen.mrs.MainActivity
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:16:9-22:20
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:16:19-47
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:20:27-74
 activity#com.example.mumen.mrs.signup
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:23:9-44
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:23:9-44
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:23:19-41
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:23:19-41
 activity#com.example.mumen.mrs.ready_to_go
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:24:9-49
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:24:9-49
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:24:19-46
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:24:19-46
 activity#com.example.mumen.mrs.welcome
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:25:9-45
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:25:9-45
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:25:19-42
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:25:19-42
 activity#com.example.mumen.mrs.talk_to_doctor
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:26:9-52
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:26:9-52
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:26:19-49
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:26:19-49
 activity#com.example.mumen.mrs.login
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:27:9-43
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:27:9-43
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:27:19-40
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:27:19-40
 activity#com.example.mumen.mrs.main
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:28:9-42
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:28:9-42
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:28:19-39
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:28:19-39
 activity#com.example.mumen.mrs.activity_main8
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:29:9-52
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:29:9-52
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:29:19-49
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:29:19-49
 activity#com.example.mumen.mrs.enter_data
-ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:30:9-57
+ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:30:9-57
 	android:name
-		ADDED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml:30:19-45
+		ADDED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml:30:19-45
 uses-sdk
-INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.3.1] /home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mumen/.android/build-cache/a5fff16454a057d18cee83c91d3de0bcb80f6bb4/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mumen/.android/build-cache/f93bf96c7826f0ba943e60126b4a6059482d1d67/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/mumen/.android/build-cache/0607a84b5b02614ed47d5ecb688265285efa91ae/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /home/mumen/.android/build-cache/bac0444a125a3fa494e62e5589d7f0844a14dea1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] /home/mumen/.android/build-cache/bd96924583407712466dfc10e41030ce9401ee56/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/mumen/.android/build-cache/d208897347be53c03f07f1b2eccaaabb6508a83d/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/mumen/.android/build-cache/b67ac1000449cbcbcb9ac397ff6564100db8d89f/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/mumen/.android/build-cache/8c002b7d8bee9f7b4a7f5f0ab92b5be9cb32b138/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/mumen/.android/build-cache/75bdcb8c61dd97187d26554f5234a55195c5bade/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] /home/mumen/.android/build-cache/5803dbbf655d6575c80b2c839a1737182d9f303b/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/mumen/.android/build-cache/d081f789c23fd5283d1bcce917e78ae1d2939a42/output/AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Hatem\.android\build-cache\eb33debaa544e42c1c5311f7542eb81c100bbe76\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hatem\.android\build-cache\401c0728b26c837087de5a3e48dcd965c77cfda2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hatem\.android\build-cache\027a0caaf6fec8e213fa6853d4bab2b7a57dcd57\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hatem\.android\build-cache\641393c7cce6d19270219b35876e359ab13c1300\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Hatem\.android\build-cache\852a7be441c8880030a503fec97f8bd94cb774a3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Hatem\.android\build-cache\7bc33fafce3802db8b1d542daf0530b54601f459\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hatem\.android\build-cache\a412f5e12f4f9684b5f546bfa95ff9fad22ef512\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hatem\.android\build-cache\b5fc3285710dbb10a348a1d02ce6ff01feea5599\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hatem\.android\build-cache\58e665a2b8677d54c86dba7b01e34d6f3f7e464a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hatem\.android\build-cache\02de49695d330645d86eaffdf38861efc5f27eb4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hatem\.android\build-cache\0020fb7235e86fb8c0f35f838a4b6aec96e47faf\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hatem\.android\build-cache\0c592c759ee0111a573935dc3e8c5e3f9d1ac620\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Hatem\.android\build-cache\6ab1c7b7e86f4acbf0aab5061ba89b8973a212d9\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Hatem\.android\build-cache\eb33debaa544e42c1c5311f7542eb81c100bbe76\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mumen/MRS-app/MRS/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\MRS\mrs\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mumen/.android/build-cache/a5fff16454a057d18cee83c91d3de0bcb80f6bb4/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mumen/.android/build-cache/f93bf96c7826f0ba943e60126b4a6059482d1d67/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/mumen/.android/build-cache/0607a84b5b02614ed47d5ecb688265285efa91ae/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /home/mumen/.android/build-cache/bac0444a125a3fa494e62e5589d7f0844a14dea1/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/mumen/.android/build-cache/bd96924583407712466dfc10e41030ce9401ee56/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/mumen/.android/build-cache/d208897347be53c03f07f1b2eccaaabb6508a83d/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/mumen/.android/build-cache/b67ac1000449cbcbcb9ac397ff6564100db8d89f/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/mumen/.android/build-cache/8c002b7d8bee9f7b4a7f5f0ab92b5be9cb32b138/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/mumen/.android/build-cache/75bdcb8c61dd97187d26554f5234a55195c5bade/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/mumen/.android/build-cache/5803dbbf655d6575c80b2c839a1737182d9f303b/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\Hatem\.android\build-cache\eb33debaa544e42c1c5311f7542eb81c100bbe76\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hatem\.android\build-cache\401c0728b26c837087de5a3e48dcd965c77cfda2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hatem\.android\build-cache\027a0caaf6fec8e213fa6853d4bab2b7a57dcd57\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hatem\.android\build-cache\641393c7cce6d19270219b35876e359ab13c1300\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Hatem\.android\build-cache\852a7be441c8880030a503fec97f8bd94cb774a3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Hatem\.android\build-cache\7bc33fafce3802db8b1d542daf0530b54601f459\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hatem\.android\build-cache\a412f5e12f4f9684b5f546bfa95ff9fad22ef512\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hatem\.android\build-cache\b5fc3285710dbb10a348a1d02ce6ff01feea5599\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hatem\.android\build-cache\58e665a2b8677d54c86dba7b01e34d6f3f7e464a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hatem\.android\build-cache\02de49695d330645d86eaffdf38861efc5f27eb4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hatem\.android\build-cache\0020fb7235e86fb8c0f35f838a4b6aec96e47faf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hatem\.android\build-cache\0c592c759ee0111a573935dc3e8c5e3f9d1ac620\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Hatem\.android\build-cache\eb33debaa544e42c1c5311f7542eb81c100bbe76\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Hatem\.android\build-cache\eb33debaa544e42c1c5311f7542eb81c100bbe76\output\AndroidManifest.xml:26:9-47

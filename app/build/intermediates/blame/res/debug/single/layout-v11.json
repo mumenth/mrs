@@ -1,26 +1,50 @@
 [
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\Users\\Hatem\\Desktop\\MRS\\mrs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Hatem\\.android\\build-cache\\401c0728b26c837087de5a3e48dcd965c77cfda2\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout-v11/notification_media_action.xml"
+        "merged": "C:\\home\\mumen\\MRS-app\\MRS\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\home\\mumen\\.android\\build-cache\\e386cbdee672a67d4eb622f84e3d6057ae68a4d5\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "C:\\Users\\Hatem\\Desktop\\MRS\\mrs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Hatem\\.android\\build-cache\\401c0728b26c837087de5a3e48dcd965c77cfda2\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "C:\\home\\mumen\\MRS-app\\MRS\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\home\\mumen\\.android\\build-cache\\e386cbdee672a67d4eb622f84e3d6057ae68a4d5\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "C:\\home\\mumen\\MRS-app\\MRS\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\home\\mumen\\.android\\build-cache\\e386cbdee672a67d4eb622f84e3d6057ae68a4d5\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\Hatem\\Desktop\\MRS\\mrs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Hatem\\.android\\build-cache\\401c0728b26c837087de5a3e48dcd965c77cfda2\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hatem\\Desktop\\MRS\\mrs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Hatem\\.android\\build-cache\\401c0728b26c837087de5a3e48dcd965c77cfda2\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hatem\\Desktop\\MRS\\mrs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Hatem\\.android\\build-cache\\401c0728b26c837087de5a3e48dcd965c77cfda2\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hatem\\Desktop\\MRS\\mrs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Hatem\\.android\\build-cache\\401c0728b26c837087de5a3e48dcd965c77cfda2\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\home\\mumen\\MRS-app\\MRS\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\home\\mumen\\.android\\build-cache\\e386cbdee672a67d4eb622f84e3d6057ae68a4d5\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\home\\mumen\\MRS-app\\MRS\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\home\\mumen\\.android\\build-cache\\e386cbdee672a67d4eb622f84e3d6057ae68a4d5\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\home\\mumen\\MRS-app\\MRS\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\home\\mumen\\.android\\build-cache\\e386cbdee672a67d4eb622f84e3d6057ae68a4d5\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     }
 ]
