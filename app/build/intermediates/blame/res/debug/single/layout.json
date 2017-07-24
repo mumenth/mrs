@@ -140,6 +140,10 @@
         "source": "/home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/res/layout/design_layout_tab_text.xml"
     },
     {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_aboutus.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_aboutus.xml"
+    },
+    {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout/abc_expanded_menu_layout.xml"
     },

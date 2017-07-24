@@ -20,14 +20,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".signup" />
         <activity android:name=".ready_to_go" />
         <activity android:name=".welcome" />
         <activity android:name=".talk_to_doctor" />
         <activity android:name=".login" />
-        <activity android:name=".main" />
+        <activity android:name=".choices_2" />
         <activity android:name=".activity_main8" />
-        <activity android:name=".enter_data"></activity>
+        <activity android:name=".enter_data" />
+        <activity android:name=".aboutus"/>
+        <activity
+            android:name=".signup"
+            android:parentActivityName="" />
+
     </application>
 
 </manifest>

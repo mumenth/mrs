@@ -38,6 +38,7 @@
         <activity android:name="com.example.mumen.mrs.main" />
         <activity android:name="com.example.mumen.mrs.activity_main8" />
         <activity android:name="com.example.mumen.mrs.enter_data" />
+        <activity android:name="com.example.mumen.mrs.aboutus" />
     </application>
 
 </manifest>

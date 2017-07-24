@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.mumen.mrs.main">
+    tools:context="com.example.mumen.mrs.choices_2">
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/floating_action_button"
