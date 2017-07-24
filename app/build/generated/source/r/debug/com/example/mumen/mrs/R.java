@@ -3190,7 +3190,7 @@ containing a value of this type.
         public static final int showTitle=0x7f0d001e;
         public static final int sign_confer_pass=0x7f0d00bd;
         public static final int sign_email=0x7f0d00b9;
-        public static final int sign_pass=0x7f0d00bb;
+        public static final int sign_pass_hint=0x7f0d00bb;
         public static final int sign_user_name=0x7f0d00b7;
         public static final int signupButton=0x7f0d0087;
         public static final int smallLabel=0x7f0d0088;
@@ -3375,16 +3375,17 @@ containing a value of this type.
         public static final int date_of_taking_place=0x7f070029;
         public static final int doctor_name=0x7f07002a;
         public static final int doctor_name_label=0x7f07002b;
-        public static final int password_toggle_content_description=0x7f07002c;
-        public static final int path_password_eye=0x7f07002d;
-        public static final int path_password_eye_mask_strike_through=0x7f07002e;
-        public static final int path_password_eye_mask_visible=0x7f07002f;
-        public static final int path_password_strike_through=0x7f070030;
-        public static final int report_label=0x7f070031;
+        public static final int email_hint=0x7f07002c;
+        public static final int password_toggle_content_description=0x7f07002d;
+        public static final int path_password_eye=0x7f07002e;
+        public static final int path_password_eye_mask_strike_through=0x7f07002f;
+        public static final int path_password_eye_mask_visible=0x7f070030;
+        public static final int path_password_strike_through=0x7f070031;
+        public static final int report_label=0x7f070032;
         public static final int search_menu_title=0x7f070013;
         public static final int status_bar_notification_info_overflow=0x7f070014;
-        public static final int type_label=0x7f070032;
-        public static final int xray_label=0x7f070033;
+        public static final int type_label=0x7f070033;
+        public static final int xray_label=0x7f070034;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0900a1;

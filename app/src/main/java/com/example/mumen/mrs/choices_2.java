@@ -22,4 +22,5 @@ public class choices_2 extends AppCompatActivity {
         startActivity(intent);
 
     }
+
 }
