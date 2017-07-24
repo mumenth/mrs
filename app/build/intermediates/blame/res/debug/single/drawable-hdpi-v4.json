@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
         "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",

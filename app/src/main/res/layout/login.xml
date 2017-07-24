@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.mumen.mrs.Main6Activity">
+    tools:context="com.example.mumen.mrs.login">
 
     <TextView
         android:id="@+id/textView3"
@@ -35,6 +35,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
+        
         android:inputType="textEmailAddress"
         tools:layout_editor_absoluteY="150dp"
         tools:layout_editor_absoluteX="96dp" />

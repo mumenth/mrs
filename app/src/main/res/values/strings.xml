@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MRS</string>
+    <string name="doctor_name">Doctors name</string>
+    <string name="doctor_name_label">Example: John</string>
+    <string name="date_of_taking_place">Date of taking place</string>
+    <string name="address">Address</string>
 </resources>

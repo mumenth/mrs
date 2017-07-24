@@ -3,7 +3,7 @@ package com.example.mumen.mrs;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Main8Activity extends AppCompatActivity {
+public class activity_main8 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

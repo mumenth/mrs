@@ -1,11 +1,15 @@
 [
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main6.xml",
-        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main6.xml"
-    },
-    {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_enter_data.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_enter_data.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -26,10 +30,6 @@
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
         "source": "/home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/res/layout/design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main7.xml",
-        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main7.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
@@ -60,28 +60,32 @@
         "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
         "source": "/home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main5.xml",
-        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main5.xml"
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/choices_2.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/choices_2.xml"
+    },
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/talk_to_doctor.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/talk_to_doctor.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main8.xml",
-        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main8.xml"
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/ready_to_go.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/ready_to_go.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
-        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main2.xml"
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main8.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main8.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
@@ -90,10 +94,6 @@
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/res/layout/design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -124,8 +124,8 @@
         "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main3.xml",
-        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main3.xml"
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/main.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
@@ -134,10 +134,6 @@
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
         "source": "/home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/res/layout/design_navigation_item_header.xml"
-    },
-    {
-        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/activity_main4.xml",
-        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/activity_main4.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
@@ -166,6 +162,10 @@
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/mumen/.android/build-cache/e386cbdee672a67d4eb622f84e3d6057ae68a4d5/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/welcome.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/welcome.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -222,6 +222,10 @@
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
         "source": "/home/mumen/.android/build-cache/be267ce64898e7ea658660ab8c5f35d0a22c632b/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/signup.xml",
+        "source": "/home/mumen/MRS-app/MRS/app/src/main/res/layout/signup.xml"
     },
     {
         "merged": "/home/mumen/MRS-app/MRS/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
