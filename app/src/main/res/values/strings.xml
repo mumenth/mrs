@@ -13,5 +13,8 @@
     <string name="Other_label">Other</string>
     <string name="export">Export</string>
     <string name="developer">Developer</string>
+    <string name="insert_image_label">Insert Image</string>
+    <string name="note_label">Note:</string>
+    <string name="save">Save</string>
 
 </resources>
