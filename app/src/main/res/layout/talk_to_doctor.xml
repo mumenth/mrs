@@ -7,6 +7,22 @@
     tools:context="com.example.mumen.mrs.talk_to_doctor">
 
     <TextView
+        android:id="@+id/page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Hello .. Please explain to the doctor
+a brief summary of the purpose of
+this consultation."
+
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/take_to_doctor"
+        android:layout_marginStart="8dp" />
+
+    <TextView
         android:id="@+id/take_to_doctor"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Display1"
         android:layout_width="wrap_content"
@@ -16,22 +32,8 @@
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="6dp" />
-
-    <TextView
-        android:id="@+id/page"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello .. Please explain to the doctor
-a brief summary of the purpose of
-this consultation."
-        android:textColor="@color/colorPrimary"
-        android:textSize="20dp"
-
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginTop="16dp"
-        app:layout_constraintTop_toBottomOf="@+id/take_to_doctor" />
+        android:layout_marginTop="60dp"
+        android:layout_marginStart="8dp" />
 
     <TextView
         android:id="@+id/reason_of_consultation"
@@ -40,16 +42,11 @@ this consultation."
         android:text="Reason for consultation"
         android:textSize="25dp"
         android:textColor="@android:color/black"
-        android:layout_marginTop="39dp"
+        android:layout_marginTop="22dp"
         app:layout_constraintTop_toBottomOf="@+id/page"
         android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent" />
-
-    <Space
-        android:layout_width="366dp"
-        android:layout_height="39dp"
-        tools:layout_editor_absoluteX="9dp"
-        tools:layout_editor_absoluteY="468dp" />
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginStart="8dp" />
 
     <EditText
         android:id="@+id/editText"
@@ -57,40 +54,53 @@ this consultation."
         android:layout_height="42dp"
         android:ems="10"
         android:inputType="date"
-        tools:layout_editor_absoluteX="10dp"
-        tools:layout_editor_absoluteY="214dp" />
+        tools:layout_editor_absoluteX="-15dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/reason_of_consultation" />
 
     <CalendarView
         android:id="@+id/calendarView2"
         android:layout_width="247dp"
         android:layout_height="47dp"
         tools:layout_editor_absoluteX="121dp"
-        tools:layout_editor_absoluteY="269dp" />
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/editText" />
 
     <CheckBox
         android:id="@+id/checkBox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Male"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="269dp" />
+        tools:layout_editor_absoluteX="16dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/editText" />
 
     <CheckBox
         android:id="@+id/checkBox2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Female"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="316dp" />
+        tools:layout_editor_absoluteX="16dp"
+        android:layout_marginTop="7dp"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="119dp"
-        android:layout_height="45dp"
+        android:layout_height="48dp"
         android:text="Talk To Doctor"
         android:textColor="@android:color/white"
         android:background="@color/colorPrimary"
-        tools:layout_editor_absoluteX="111dp"
-        tools:layout_editor_absoluteY="369dp" />
+        tools:layout_editor_absoluteY="405dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <SearchView
+        android:layout_width="323dp"
+        android:layout_height="41dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp" />
 
 </android.support.constraint.ConstraintLayout>

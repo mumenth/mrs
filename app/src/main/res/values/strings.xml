@@ -11,4 +11,7 @@
     <string name="xray_label">X-Ray</string>
     <string name="Appointment_label">Appointment</string>
     <string name="Other_label">Other</string>
+    <string name="export">Export</string>
+    <string name="developer">Developer</string>
+
 </resources>

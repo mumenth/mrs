@@ -20,15 +20,39 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".choices_2" />
+        <activity
+            android:name=".choices_2"
+            android:parentActivityName=".welcome">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".welcome" />
+        </activity>
         <activity android:name=".ready_to_go" />
-        <activity android:name=".signup" />
-        <activity android:name=".ready_to_go" />
-        <activity android:name=".talk_to_doctor" />
-        <activity android:name=".login" />
+        <activity
+            android:name=".signup"
+            android:parentActivityName=".choices_2">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".choices_2" />
+        </activity>
+        <activity
+            android:name=".talk_to_doctor"
+            android:parentActivityName=".welcome">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".welcome" />
+        </activity>
+        <activity
+            android:name=".login"
+            android:parentActivityName=".choices_2">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".choices_2" />
+        </activity>
         <activity android:name=".main" />
         <activity android:name=".activity_main8" />
-        <activity android:name=".enter_data"></activity>
+        <activity android:name=".enter_data" />
+        <activity android:name=".export"></activity>
     </application>
 
 </manifest>
