@@ -3,5 +3,12 @@
     <string name="doctor_name">Doctors name</string>
     <string name="doctor_name_label">Example: John</string>
     <string name="date_of_taking_place">Date of taking place</string>
-    <string name="address">Address</string>
+    <string name="address_label">Address</string>
+    <string name="address">Palestine, Gaza, GazaSkyGeeks</string>
+    <string name="email_hint">example@example.com</string>
+    <string name="type_label">Type:</string>
+    <string name="report_label">Report</string>
+    <string name="xray_label">X-Ray</string>
+    <string name="Appointment_label">Appointment</string>
+    <string name="Other_label">Other</string>
 </resources>

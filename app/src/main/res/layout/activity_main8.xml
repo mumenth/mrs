@@ -1,20 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mumen.mrs.activity_main8"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+<android.support.constraint.ConstraintLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.mumen.mrs.activity_main8"
+
     >
 
 
     <TextView
-        android:id="@+id/your_sickness"
+        android:id="@+id/developer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Display1"
+        android:text="Developer"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="16dp" />
+
+    <ImageView
+        android:id="@+id/hatem"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/hatem"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/developer"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <ImageView
+        android:id="@+id/mohammed"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/mohammed"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/hatem"
+        app:layout_constraintRight_toRightOf="@+id/hatem" />
+
+    <ImageView
+        android:id="@+id/mumen"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/mumen"
+
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/mohammed"
+        app:layout_constraintRight_toRightOf="@+id/mohammed" />
+
+    <TextView
+        android:id="@+id/hatem_nam"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Hatem R."
+
+        app:layout_constraintRight_toLeftOf="@+id/hatem"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/hatem"
+         />
+
+    <TextView
+        android:id="@+id/hatem_text"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
         android:text="TextView"
-        tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="16dp" />
+        android:textSize="20dp"
+        android:textColor="@android:color/black"
+        app:layout_constraintTop_toBottomOf="@+id/hatem_nam"
+        app:layout_constraintLeft_toLeftOf="@+id/hatem_nam"
+        app:layout_constraintRight_toRightOf="@+id/hatem_nam" />
+
+    <TextView
+        android:id="@+id/mohammed_nam"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Mohammed S."
+
+        app:layout_constraintRight_toLeftOf="@+id/mohammed"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/mohammed"
+        />
+
+    <TextView
+        android:id="@+id/mohammed_text"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="sjkagh;iahg;iw"
+        android:textSize="20dp"
+        android:textColor="@android:color/black"
+
+        app:layout_constraintTop_toBottomOf="@+id/mohammed_nam"
+        app:layout_constraintLeft_toLeftOf="@+id/mohammed_nam"
+        app:layout_constraintRight_toRightOf="@+id/mohammed_nam" />
+
+    <TextView
+        android:id="@+id/mumen_nam"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Mumen K."
+
+        app:layout_constraintRight_toLeftOf="@+id/mumen"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/mumen"
+        />
+
+    <TextView
+        android:id="@+id/mumen_text"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:text="sjkagh;iahg;iw"
+        android:textSize="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/mumen_nam"
+        app:layout_constraintLeft_toLeftOf="@+id/mumen_nam"
+        app:layout_constraintRight_toRightOf="@+id/mumen_nam" />
+
+
 </android.support.constraint.ConstraintLayout>
+</ScrollView>

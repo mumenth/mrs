@@ -13,7 +13,7 @@
         android:id="@+id/imageView7"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        app:srcCompat="@drawable/mrs"
+        app:srcCompat="@drawable/MRS_logo"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -37,6 +37,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Register"
+        android:onClick="GoToReadyToGoPage"
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="343dp" />
 

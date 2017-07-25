@@ -10,11 +10,15 @@
         android:id="@+id/imageView"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        app:srcCompat="@drawable/mrs"
+        app:srcCompat="@drawable/MRS_logo"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="5dp"/>
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintVertical_bias="0.322"
+        android:onClick="goToChoices"/>
 
     <TextView
         android:id="@+id/textView2"
