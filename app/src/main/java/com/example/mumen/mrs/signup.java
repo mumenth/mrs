@@ -24,7 +24,6 @@ public class signup extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.signup);
-
         mBinding = DataBindingUtil.setContentView(this, R.layout.signup);
 
 
@@ -45,6 +44,8 @@ public class signup extends AppCompatActivity {
     public void signUp (String email, String password){
         ParseUser user = new ParseUser();
         user.setEmail(email);
+        user.setUsername(email);
+
         user.setPassword(password);
 
         Toast.makeText(getApplicationContext(), "Signing up...", Toast.LENGTH_SHORT).show();

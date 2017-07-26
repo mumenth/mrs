@@ -3,7 +3,6 @@ package com.example.mumen.mrs;
 import android.app.Application;
 
 import com.parse.Parse;
-import com.parse.ParseObject;
 
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
@@ -30,14 +29,10 @@ public class ParseApplication extends Application {
         builder.networkInterceptors().add(httpLoggingInterceptor);
 
         Parse.initialize(new Parse.Configuration.Builder(this)
-                .applicationId("myAppId") // TODO: Replace with your app ID.
+                .applicationId("com.example.mumen.mrs")
                 .clientKey(null)
                 .clientBuilder(builder)
-                .server("https://mrsf.herokuapp.com/parse/").build()); // TODO: Replace with your app URL.
-        // New test creation of object below
-        ParseObject testObject = new ParseObject("TestObject");
-        testObject.put("foo", "bar");
-        testObject.saveInBackground();
+                .server("https://mrsf.herokuapp.com/parse/").build());
 
     }
 }
